@@ -10,4 +10,5 @@ Preprocessing using gensim.utils.simple_preprocess
 Extracts word embeddings and averages them to generate sentence vectors
 
 Ready for integration with classification models (e.g., Logistic Regression, Random Forest)
+### use Kaggle Notebook for fast computation
 
